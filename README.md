@@ -14,7 +14,7 @@ angular
 node
 mysql -->
 <img align="left" alt="HTML5" height="28px" src="https://img.shields.io/badge/-html5-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
-<img align="left" alt="CSS3" height="28px" src="https://img.shields.io/badge/-css3-#1572B6?logo=css3&logoColor=white&style=for-the-badge" />
+<img align="left" alt="CSS3" height="28px" src="https://img.shields.io/badge/-css3-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
 
 
 
