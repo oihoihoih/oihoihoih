@@ -1,7 +1,7 @@
 ## Hola, I'm Oih!
 Experienced graphic designer transitioning into UX/UI Design and Front-End Development. 
 
-***
+---
 Prueba
 
 <!--
