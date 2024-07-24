@@ -13,7 +13,7 @@ javascript
 angular
 node
 mysql -->
-<img align="left" alt="HTML5" width="28px" src="https://img.shields.io/badge/-html5-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
+<img align="left" alt="HTML5" height="28px" src="https://img.shields.io/badge/-html5-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
 
 
 
