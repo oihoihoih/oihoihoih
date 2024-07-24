@@ -1,17 +1,11 @@
 ## Hola, I'm Oih!
-## Experienced graphic designer transitioning into UX/UI Design and Front-End Development. 
+Experienced graphic designer transitioning into UX/UI Design and Front-End Development. 
+<!--Añadir alguna imagen-->
 
 ---
 ### Laguages and Tools
 <!--
 https://javascript.plainenglish.io/how-to-make-custom-language-badges-for-your-profile-using-shields-io-d2aeaf016b6b
-html
-css
-sass
-figma
-javascript
-angular
-node
  -->
 <img align="left" alt="HTML5" height="28px" src="https://img.shields.io/badge/-html5-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
 <img align="left" alt="CSS3" height="28px" src="https://img.shields.io/badge/-css3-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
