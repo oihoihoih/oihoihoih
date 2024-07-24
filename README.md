@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hola, I'm Oih!
+Experienced graphic designer transitioning into UX/UI Design and Front-End Development. 
+
+***
+Prueba
 
 <!--
 **oihoihoih/oihoihoih** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
