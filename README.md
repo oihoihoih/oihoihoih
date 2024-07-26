@@ -1,5 +1,5 @@
 ## Hola, I'm Oih!
-Experienced graphic designer transitioning into UX/UI Design and Front-End Development. 
+I am a graphic designer with over 10 years of experience, currently transitioning to a UX/UI designer and front-end developer. I am deeply committed to projects and have extensive experience working with multidisciplinary teams.
 <!--Añadir alguna imagen-->
 
 ---
