@@ -1,8 +1,8 @@
 ## Hola, I'm Oih!
 I am a graphic designer with over 10 years of experience, currently transitioning to a UX/UI designer and front-end developer. I am deeply committed to projects and have extensive experience working with multidisciplinary teams.
 <!--Añadir alguna imagen-->
+## 
 
----
 ### Laguages and Tools
 <!--
 https://javascript.plainenglish.io/how-to-make-custom-language-badges-for-your-profile-using-shields-io-d2aeaf016b6b
