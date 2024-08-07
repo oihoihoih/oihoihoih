@@ -12,10 +12,13 @@ https://javascript.plainenglish.io/how-to-make-custom-language-badges-for-your-p
 <img align="left" alt="sass" height="28px" src="https://img.shields.io/badge/-sass-CC6699?logo=sass&logoColor=white&style=for-the-badge" />
 <img align="left" alt="figma" height="28px" src="https://img.shields.io/badge/-figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" />
 <img align="left" alt="javascript" height="28px" src="https://img.shields.io/badge/-javascript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge" />
-<img align="left" alt="nodedotjs" height="28px" src="https://img.shields.io/badge/-node.js-5FA04E?logo=nodedotjs&logoColor=white&style=for-the-badge" />
+<img align="left" alt="nodedotjs" height="28px" src="https://img.shields.io/badge/-node.js-5FA04E?logo=nodedotjs&logoColor=white&style=for-the-badge" />  
+
+<!--Añadir alguna imagen-->
 
 ## 
 
+### Education
 <!--
 **oihoihoih/oihoihoih** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
