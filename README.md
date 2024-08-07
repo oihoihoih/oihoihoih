@@ -15,11 +15,16 @@ https://javascript.plainenglish.io/how-to-make-custom-language-badges-for-your-p
 <img align="left" alt="nodedotjs" height="28px" src="https://img.shields.io/badge/-node.js-5FA04E?logo=nodedotjs&logoColor=white&style=for-the-badge" />  
 <img align="left" alt="adobeCc" height="28px" src="https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26?logo=Adobe%20Creative%20Cloud&logoColor=white&style=for-the-badge" />  
 
-<br>
-<br>
-## 
+<br> 
 
-### :mortar_board: Education
+##  
+
+### :mortar_board: I'm currently learning:
+
+| Course | Institution |
+| --- | --- |
+| Master Universitario de Desarrollo de sitios y aplicaciones web | UOC |
+| "Design for a better world"  | Interaction design foundation | 
 
 
 <!--
