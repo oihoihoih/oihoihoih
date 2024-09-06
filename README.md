@@ -24,7 +24,7 @@ https://javascript.plainenglish.io/how-to-make-custom-language-badges-for-your-p
 | Course | Institution |
 | --- | --- |
 | Master Universitario de Desarrollo de sitios y aplicaciones web | UOC |
-| "Design for a better world"  | Interaction design foundation | 
+| UX/UI | Interaction design foundation | 
 
 
 <!--
